@@ -1,7 +1,7 @@
 import 'package:dio/dio.dart';
 import 'package:melt_v2/models/models.dart';
 
-final _apiKey = '7195cc1991msh24527d057955726p171039jsn7dab2fdd40a7';
+final _apiKey = '96b185f719msh90b9277b7268aaap1e2a25jsncd7b6b8ac1b1';
 
 Future<Movie?> getMovieByID(String id) async {
   try {

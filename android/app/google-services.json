@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "953983673502",
+    "project_id": "melt-v2",
+    "storage_bucket": "melt-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953983673502:android:ef91ae3f9640aec078c78f",
+        "android_client_info": {
+          "package_name": "com.example.melt_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953983673502-pnn6icqh95thi7a58e8hvdu8aa5p1psp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpl2QNEUFzHM9gnEC2nif9E0m-1VAPmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953983673502-pnn6icqh95thi7a58e8hvdu8aa5p1psp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
